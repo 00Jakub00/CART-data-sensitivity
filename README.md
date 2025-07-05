@@ -74,6 +74,18 @@ The "testovaci_set" file
 - Anyone exploring **model explainability** in decision trees  
 
 ---
+▶️ How to Run
+This is a Java application and is not available as a standalone executable or icon.
+To run the project:
+
+Download or clone the repository:
+git clone https://github.com/00Jakub00/CART-data-sensitivity.git
+Open the project in a Java IDE that supports Maven (e.g., IntelliJ IDEA, Eclipse, NetBeans, etc.)
+
+Make sure Maven dependencies are downloaded (your IDE should handle this automatically).
+
+Navigate to the Main class in the src/main/java directory.
+Run the Main class as a standard Java application.
 
 ## 👨‍💻 About Me
 
