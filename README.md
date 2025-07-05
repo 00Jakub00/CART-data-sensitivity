@@ -62,7 +62,7 @@ The file with "testovaci_set" in its name must remain in the folder for implemen
 
 👉 In the end, there should be exactly two files in the sety folder:
 
-Your new dataset file
+Your new dataset file.
 The "testovaci_set" file
 
 ---
