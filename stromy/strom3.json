@@ -1,0 +1,172 @@
+{
+  "skippedAttributes": ["A č.1"],
+  "tree": {
+  "text": "A č.2, hodnota: 21217.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Jan  1 - Jan 28",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Mar 27 - Apr 23",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Jan 29 - Feb 25",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Dec  4 - Dec 31",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Feb 26 - Mar 26",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{
+  "text": "A č.2, hodnota: 16665.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "no" }
+  ]
+}
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{
+  "text": "A č.0, hodnota: 0.20",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Jan  1 - Jan 28",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 44801.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Dec  4 - Dec 31",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{
+  "text": "A č.3, hodnota: Nov  6 - Dec  3",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Sep 11 - Oct  8",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Oct  9 - Nov  5",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Aug 14 - Sep 10",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Jun 19 - Jul 16",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: May 22 - Jun 18",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Apr 24 - May 21",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 33342.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{
+  "text": "A č.2, hodnota: 34646.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{
+  "text": "A č.0, hodnota: 0.33",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "yes" }
+  ]
+}
+  ]
+}
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+}
+  ]
+}
+  ]
+}
+}

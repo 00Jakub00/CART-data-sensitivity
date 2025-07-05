@@ -1,0 +1,116 @@
+{
+  "skippedAttributes": ["A č.2"],
+  "tree": {
+  "text": "A č.0, hodnota: 0.35",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Jan  1 - Jan 28",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Feb 26 - Mar 26",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Jan 29 - Feb 25",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Dec  4 - Dec 31",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Mar 27 - Apr 23",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.3, hodnota: Apr 24 - May 21",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{
+  "text": "A č.0, hodnota: 0.23",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.0, hodnota: 0.18",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{
+  "text": "A č.1, hodnota: no",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{ "text": "", "trieda": "no" }
+  ]
+}
+  ]
+}
+  ]
+},
+{
+  "text": "A č.0, hodnota: 0.28",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "yes" }
+  ]
+}
+  ]
+},
+{
+  "text": "A č.0, hodnota: 0.30",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.0, hodnota: 0.25",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+}
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{
+  "text": "A č.3, hodnota: Mar 27 - Apr 23",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "yes" }
+  ]
+}
+  ]
+}
+}

@@ -1,0 +1,316 @@
+{
+  "skippedAttributes": ["A č.3"],
+  "tree": {
+  "text": "A č.0, hodnota: 0.35",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 43998.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 21269.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 12344.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.1, hodnota: no",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 8536.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{
+  "text": "A č.2, hodnota: 18435.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 18271.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 15062.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.1, hodnota: no",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.0, hodnota: 0.23",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{
+  "text": "A č.2, hodnota: 17921.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 16126.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{
+  "text": "A č.2, hodnota: 17201.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.0, hodnota: 0.28",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.1, hodnota: no",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+}
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+}
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{
+  "text": "A č.1, hodnota: no",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.0, hodnota: 0.28",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{
+  "text": "A č.2, hodnota: 20177.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{
+  "text": "A č.2, hodnota: 21209.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 21020.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+}
+  ]
+}
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+}
+  ]
+}
+  ]
+},
+{
+  "text": "A č.0, hodnota: 0.20",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.0, hodnota: 0.15",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 28397.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 27993.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{
+  "text": "A č.0, hodnota: 0.28",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.0, hodnota: 0.23",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 24995.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{
+  "text": "A č.2, hodnota: 36517.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 33042.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 27501.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+}
+  ]
+},
+{
+  "text": "A č.2, hodnota: 33741.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 31194.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 29585.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{
+  "text": "A č.2, hodnota: 23394.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+},
+{ "text": "", "trieda": "no" }
+  ]
+},
+{ "text": "", "trieda": "yes" }
+  ]
+}
+  ]
+},
+{
+  "text": "A č.2, hodnota: 23401.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "no" },
+{
+  "text": "A č.2, hodnota: 32751.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "yes" }
+  ]
+}
+  ]
+}
+  ]
+}
+  ]
+}
+  ]
+},
+{
+  "text": "A č.2, hodnota: 53680.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "yes" }
+  ]
+}
+  ]
+},
+{
+  "text": "A č.2, hodnota: 36726.00",
+  "znakLavy": "=",
+  "znakPravy": "!=",
+  "children": [
+{ "text": "", "trieda": "yes" },
+{ "text": "", "trieda": "yes" }
+  ]
+}
+  ]
+}
+}
