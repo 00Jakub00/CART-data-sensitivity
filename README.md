@@ -75,6 +75,7 @@ The "testovaci_set" file
 
 ---
 ▶️ How to Run
+
 This is a Java application and is not available as a standalone executable or icon.
 To run the project:
 
