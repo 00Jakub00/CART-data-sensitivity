@@ -50,9 +50,20 @@ In real-world datasets, not all features contribute equally to the quality of pr
 
 ---
 
-## 🧪 Sample Datasets
+📂 Using a Custom Dataset
 
-You can find example datasets in the `/datasets` folder. These are pre-formatted for direct use with the tool.
+If you'd like to test the program with a different dataset:
+Go to the dataset folder in the root directory.
+Copy your desired dataset file into the following directory:
+src/main/java/sety
+
+Before that, make sure to delete any existing file in that folder that does not contain "testovaci_set" in its name.
+The file with "testovaci_set" in its name must remain in the folder for implementation reasons, even though it is not used during program execution.
+
+👉 In the end, there should be exactly two files in the sety folder:
+
+Your new dataset file
+The "testovaci_set" file
 
 ---
 
