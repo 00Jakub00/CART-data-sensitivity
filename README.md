@@ -1,101 +1,73 @@
-# 🌳 CART Feature Importance Evaluator
+🌳 CART Feature Importance Evaluator
+This project explores how each input attribute in a dataset influences the performance of a classification model using the CART (Classification and Regression Trees) algorithm.
+It evaluates feature importance by comparing model performance with and without each feature, using repeated training and testing cycles.
 
-This project aims to determine how important each input attribute in a dataset is for the accuracy of a classification model, using the **CART (Classification and Regression Trees)** algorithm.
+🔍 Purpose
+In real-world data, some features contribute more to prediction quality than others. 
+This tool helps identify those key features and quantify their impact, making it useful for feature selection and model interpretation.
 
-It systematically tests the impact of each attribute by training models with and without each feature and evaluating the change in prediction performance.
+🛠️ Key Features
+✅ Custom implementation of the CART algorithm in Java (no external libraries)
 
----
+🔁 Performs 100 training and prediction cycles per feature test
 
-## 🧠 Motivation
+📊 Calculates average F1 score, Precision, and Recall for evaluation
 
-In real-world datasets, not all features contribute equally to the quality of prediction. This tool helps visualize and quantify the **sensitivity of a model to individual attributes**, aiding in **feature selection and model interpretation**.
+📉 Ranks features by drop in performance when excluded
 
----
+🌳 Generates a sample decision tree for each case
 
-## 🚀 Features
+🧪 Includes sample datasets and supports custom datasets (CSV, TXT, XLSX)
 
-- ✅ Fully custom implementation of the **CART algorithm** in Java  
-- 🔄 Performs **100 trainings and predictions** for each test case (with and without a specific attribute)  
-- 📊 Calculates **average F1 score** to measure performance  
-- 📈 Ranks attributes based on their **impact on prediction quality**  
-- 📋 Displays detailed metrics:
-  - **Precision**, **Recall**, and **F1 Score** for each class
-  - **Macro-averaged metrics** across all classes  
-- 🌳 Visualizes one example **decision tree** for each case (attribute omitted)  
-- 🧪 Comes with **sample datasets** for easy testing  
+🧪 How It Works
+Load the dataset
 
----
+Train the model with all features and calculate baseline metrics
 
-## 🛠 Tech Stack
+For each feature:
 
-| Component        | Technology            |
-|------------------|------------------------|
-| Core logic       | Java (custom CART)     |
-| Build tool       | Maven                  |
-| Visualization    | Node.js + Express      |
-| Frontend         | HTML, CSS              |
+Remove the feature from the dataset
 
----
+Train and test the model 100 times
 
-## 🧪 How It Works
+Compute average metrics
 
-1. Load a dataset (CSV/TXT/XLSX format)  
-2. Train the CART model with **all features** – store average metrics  
-3. For each attribute:
-   - Exclude it from the dataset  
-   - Train 100 models and perform 100 predictions  
-   - Calculate average metrics  
-   - Visualize a resulting decision tree  
-4. Rank all attributes by drop in performance when excluded  
+Compare results and rank features based on performance impact
 
----
+Visualize a decision tree for each feature-omission case
 
-📂 Using a Custom Dataset
+💻 Tech Stack
+Component	Technology
+Core logic	Java (custom CART)
+Build tool	Maven
+Visualization	Node.js + Express
+Frontend	HTML, CSS
 
-If you'd like to test the program with a different dataset:
-Go to the dataset folder in the root directory.
-Copy your desired dataset file into the following directory:
-src/main/java/sety
+📂 Custom Dataset Instructions
+To use your own dataset, copy the file into the src/main/java/sety folder.
+Keep the file containing "testovaci_set" in its name for technical reasons – it’s ignored during execution but must be present.
 
-Before that, make sure to delete any existing file in that folder that does not contain "testovaci_set" in its name.
-The file with "testovaci_set" in its name must remain in the folder for implementation reasons, even though it is not used during program execution.
+🎯 Suitable For
+Students and researchers working with machine learning
 
-👉 In the end, there should be exactly two files in the sety folder:
+Developers exploring model explainability
 
-Your new dataset file.
-The "testovaci_set" file
+Anyone interested in feature selection using decision trees
 
----
-
-## 🎓 Ideal For
-
-- Machine Learning students and researchers  
-- Developers working on **feature selection**  
-- Anyone exploring **model explainability** in decision trees  
-
----
 ▶️ How to Run
-
-This is a Java application and is not available as a standalone executable or icon.
-To run the project:
-
-Download or clone the repository:
+Clone the repository:
 git clone https://github.com/00Jakub00/CART-data-sensitivity.git
-Open the project in a Java IDE that supports Maven (e.g., IntelliJ IDEA, Eclipse, NetBeans, etc.)
 
-Make sure Maven dependencies are downloaded (your IDE should handle this automatically).
+Open the project in an IDE that supports Maven (e.g., IntelliJ IDEA, Eclipse)
 
-Navigate to the Main class in the src/main/java directory.
-Run the Main class as a standard Java application.
+Let Maven download dependencies automatically
 
-## 👨‍💻 About Me
+Run the Main class located in src/main/java as a Java application
 
-This project was built as part of an academic research initiative and personal interest in machine learning explainability.  
-The **entire CART algorithm and feature ranking logic** were implemented from scratch in Java.
+👨‍💻 About the Project
+This tool was developed as part of an academic project focused on model explainability. The CART algorithm and feature evaluation logic were built entirely from scratch in Java.
 
----
-
-## 📄 License
+📄 License
 
 This is an open educational project. For contributions, feedback, or collaboration opportunities, feel free to reach out:  
 📧 **jakubgaly77@gmail.com**
