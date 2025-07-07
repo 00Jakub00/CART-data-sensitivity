@@ -341,7 +341,6 @@ public class CartStrom {
                 folder.mkdirs();
             }
 
-            // Nájdeme najbližší voľný index
             int index = 1;
             while (new File(folder, "strom" + index + ".json").exists()) {
                 index++;
